@@ -1,0 +1,17 @@
+---
+title: "tidyr"
+author: "jo"
+format: html
+editor: visual
+---
+
+```{r}
+
+here::i_am("tidyr.Rproj")
+library(here)
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+
+```
+
